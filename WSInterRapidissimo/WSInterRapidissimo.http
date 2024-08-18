@@ -1,0 +1,6 @@
+@WSInterRapidissimo_HostAddress = http://localhost:5097
+
+GET {{WSInterRapidissimo_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
